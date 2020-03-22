@@ -71,3 +71,13 @@ Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples
 ----------------------------------------------------------------------------
 
 * Link to paper: `Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples <https://www.microsoft.com/en-us/research/publication/neural-guided-deductive-search-real-time-program-synthesis-examples/>`_
+
+Learning Natural Programs from a Few Examples in Real-Time
+----------------------------------------------------------
+
+* Link to paper: `Learning Natural Programs from a Few Examples in Real-Time <https://www.microsoft.com/en-us/research/publication/learning-natural-programs-from-a-few-examples-in-real-time/>`_
+
+Synthesis and Machine Learning for HeterogeneousExtraction
+----------------------------------------------------------
+
+* Link to paper: `Synthesis and Machine Learning for HeterogeneousExtraction <https://www.microsoft.com/en-us/research/publication/synthesis-and-machine-learning-for-heterogeneous-extraction/>`_
