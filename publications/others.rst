@@ -15,3 +15,14 @@ Program Synthesis by Type-Guided Abstraction Refinement
     * use of refinement types to decrease search space: :code:`{x:Int | 0 < x}` - :code:`x` is always less than 0. Type defined with predicate  is called Logically Qualified Data Types - `Liquid Types <http://goto.ucsd.edu/~rjhala/liquid/liquid_types.pdf>`_
 
 * their solver is called Synquid - "SYNthesis with liQUIDtypes" (`Synquid demo <http://comcom.csail.mit.edu/comcom/#Synquid>`_)
+
+
+Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples
+----------------------------------------------------------------------------
+
+* Link to paper: `Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples <https://arxiv.org/abs/1804.01186>`_
+
+Interactive Program Synthesis
+-----------------------------
+
+* Link to paper `Interactive Program Synthesis <https://arxiv.org/abs/1703.03539>`_
