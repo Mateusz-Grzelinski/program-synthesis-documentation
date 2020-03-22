@@ -22,3 +22,8 @@ Indices and tables
 .. * :ref:`modindex`
 .. * :ref:`search`
 
+
+Intorduction
+============
+
+Advanced course on program synthesis by `Sriram Rajamani <https://www.microsoft.com/en-us/research/people/sriram/>`_ (his knowledge is insane) `<https://www.csa.iisc.ac.in/~deepakd/psml-2020/>`_
