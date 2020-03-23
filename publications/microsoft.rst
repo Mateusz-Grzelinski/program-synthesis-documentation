@@ -65,18 +65,38 @@ Disjunctive Program Synthesis: A Robust Approach to Programming by Example
 --------------------------------------------------------------------------
 
 * Link to paper: `Disjunctive Program Synthesis: A Robust Approach to Programming by Example <https://www.microsoft.com/en-us/research/publication/disjunctive-program-synthesis-a-robust-approach-to-programming-by-example/>`_
+* Authors:
+* Year:
+* Discussed problem:
+
+* Short description of solution:
 
 Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples
 ----------------------------------------------------------------------------
 
 * Link to paper: `Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples <https://www.microsoft.com/en-us/research/publication/neural-guided-deductive-search-real-time-program-synthesis-examples/>`_
+* Authors:
+* Year:
+* Discussed problem:
+
+* Short description of solution:
 
 Learning Natural Programs from a Few Examples in Real-Time
 ----------------------------------------------------------
 
 * Link to paper: `Learning Natural Programs from a Few Examples in Real-Time <https://www.microsoft.com/en-us/research/publication/learning-natural-programs-from-a-few-examples-in-real-time/>`_
+* Authors:
+* Year:
+* Discussed problem:
+
+* Short description of solution:
 
 Synthesis and Machine Learning for HeterogeneousExtraction
 ----------------------------------------------------------
 
 * Link to paper: `Synthesis and Machine Learning for HeterogeneousExtraction <https://www.microsoft.com/en-us/research/publication/synthesis-and-machine-learning-for-heterogeneous-extraction/>`_
+* Authors:
+* Year:
+* Discussed problem:
+
+* Short description of solution:

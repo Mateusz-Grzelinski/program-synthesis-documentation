@@ -21,8 +21,18 @@ Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples
 ----------------------------------------------------------------------------
 
 * Link to paper: `Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples <https://arxiv.org/abs/1804.01186>`_
+* Authors:
+* Year:
+* Discussed problem:
+
+* Short description of solution:
 
 Interactive Program Synthesis
 -----------------------------
 
 * Link to paper `Interactive Program Synthesis <https://arxiv.org/abs/1703.03539>`_
+* Authors:
+* Year:
+* Discussed problem:
+
+* Short description of solution:
