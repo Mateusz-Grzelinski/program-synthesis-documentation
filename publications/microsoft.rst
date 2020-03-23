@@ -21,7 +21,7 @@ Generative Code Modeling with Graphs
 * Link to paper: `Generative Code Modeling with Graphs <https://www.microsoft.com/en-us/research/publication/generative-code-modeling-with-graphs/>`_
 * Authors: Marc Brockschmidt, Miltos Allamanis, Alex Gaunt, Alex Polozov
 * Year: 2019
-* Discussed problem: studied example is to generate code and fill the hole in program, but paper mentions:
+* Discussed problem: studied example is to generate code and fill the hole in program, but paper mentions general concepts:
 
     * how to represent code as highly structured graph - not only syntax, but also relations are presented ex. last usage of variable
     * generate new, small and expressive code ex. as a hole completion
@@ -47,7 +47,7 @@ Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis
 Programming by Examples: PL meets ML
 ------------------------------------
 
-* Link to paper: ` <>`_
+* Link to paper: `Programming by Examples: PL meets ML <https://www.microsoft.com/en-us/research/publication/programming-examples-pl-meets-ml/>`_
 * Authors: Rudy Bunel, Jacob Devlin, Matthew Hausknecht, Rishabh Singh, Pushmeet Kohli
 * Year: 2018
 * Discussed problem:

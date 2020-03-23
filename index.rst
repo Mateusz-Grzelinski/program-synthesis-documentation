@@ -1,9 +1,4 @@
-.. Program synthesis overview documentation master file, created by
-sphinx-quickstart on Sun Mar 22 09:42:45 2020.
-You can adapt this file completely to your liking, but it should at least
-contain the root `toctree` directive.
-
-Welcome to Program synthesis overview's documentation!
+Welcome to Program synthesis overview
 ======================================================
 
 .. toctree::
@@ -23,7 +18,7 @@ Indices and tables
 .. * :ref:`search`
 
 
-Intorduction
+Introduction
 ============
 
 Authors woth looking into:
@@ -34,7 +29,7 @@ Authors woth looking into:
 Existing implementations of program synthesis:
 
 * `synquid <https://bitbucket.org/nadiapolikarpova/synquid/src/default/src/Synquid/>`_ - haskel
-* λ² (write `l2 <https://github.com/jfeser/L2>`_) - ocaml - `Synthesizing data structure transformations from input-output examples <https://dl.acm.org/doi/10.1145/2737924.2737977>`_
+* lambda square (write `l2 <https://github.com/jfeser/L2>`_) - ocaml - `Synthesizing data structure transformations from input-output examples <https://dl.acm.org/doi/10.1145/2737924.2737977>`_
 * `Fiat <http://plv.csail.mit.edu/fiat/>`_ - library for the Coq - `Fiat: Deductive Synthesis of Abstract Data Types in a Proof Assistant <http://adam.chlipala.net/papers/FiatPOPL15/>`_
 * `PROSE <https://github.com/microsoft/prose>`_ - C# 
 
@@ -48,4 +43,4 @@ Programs from sygus:
 * ICE-DT (code not available?) - `ICE: A robust framework for learning invariants <https://link.springer.com/chapter/10.1007/978-3-319-08867-9_5>`_
 * OASIS - `OASIS: ILP-Guided Synthesis of Loop Invariants <https://arxiv.org/abs/1911.11728>`_
 
-**Advanced course on program synthesis by Sriram Rajamani (his knowledge is insane) `<https://www.csa.iisc.ac.in/~deepakd/psml-2020/>`_**
+**Advanced course on program synthesis by Sriram Rajamani (his knowledge is insane)** `<https://www.csa.iisc.ac.in/~deepakd/psml-2020/>`_
