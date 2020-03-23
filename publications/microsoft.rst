@@ -47,20 +47,19 @@ Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis
 Programming by Examples: PL meets ML
 ------------------------------------
 
+* Good article to start - it gives overview what are elements of PBE
+* article never explained what is PL in "PL meets ML" :(
 * Link to paper: `Programming by Examples: PL meets ML <https://www.microsoft.com/en-us/research/publication/programming-examples-pl-meets-ml/>`_
-* Authors: Rudy Bunel, Jacob Devlin, Matthew Hausknecht, Rishabh Singh, Pushmeet Kohli
-* Year: 2018
-* Discussed problem:
+* Authors: Sumit Gulwani, Prateek Jain
+* Year: 2017
+* Mini glossary: PBE - programming by example, ML - machine learning, PL - programming language?
+* Discussed problem: improve programming by example by pruning search space with machine learning guided heuristics
+
 * Short description of solution:
 
-Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis
---------------------------------------------------------------------------
-
-* Link to paper: `Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis <https://www.microsoft.com/en-us/research/publication/leveraging-grammar-reinforcement-learning-neural-program-synthesis/>`_
-* Authors: Rudy Bunel, Jacob Devlin, Matthew Hausknecht, Rishabh Singh, Pushmeet Kohli
-* Year: 2018
-* Discussed problem:
-* Short description of solution:
+    * PBE is good for relatively simple well-defined tasks - it produces small, readable code based on few examples
+    * ML needs many training data and produces non readable output but handles complex tasks
+    * use ML to create ranking function to tell which PBE programs are the most likely
 
 Disjunctive Program Synthesis: A Robust Approach to Programming by Example
 --------------------------------------------------------------------------
