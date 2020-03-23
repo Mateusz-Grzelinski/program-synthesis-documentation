@@ -104,7 +104,7 @@ Learning Natural Programs from a Few Examples in Real-Time
     * author proposes a novel formulation that interleaves program search with ranking, enabling real-time synthesis of accurate user-intended programs
 
 Synthesis and Machine Learning for Heterogeneous Extraction
-----------------------------------------------------------
+-----------------------------------------------------------
 
 * Link to paper: `Synthesis and Machine Learning for HeterogeneousExtraction <https://www.microsoft.com/en-us/research/publication/synthesis-and-machine-learning-for-heterogeneous-extraction/>`_
 * Authors: Arun Iyer, Manohar Jonnalagedda, Suresh Parthasarathy, Arjun Radhakrishna, **Sriram Rajamani**

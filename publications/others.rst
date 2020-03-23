@@ -16,17 +16,6 @@ Program Synthesis by Type-Guided Abstraction Refinement
 
 * their solver is called Synquid - "SYNthesis with liQUIDtypes" (`Synquid demo <http://comcom.csail.mit.edu/comcom/#Synquid>`_)
 
-
-Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples
-----------------------------------------------------------------------------
-
-* Link to paper: `Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples <https://arxiv.org/abs/1804.01186>`_
-* Authors:
-* Year:
-* Discussed problem:
-
-* Short description of solution:
-
 Interactive Program Synthesis
 -----------------------------
 
