@@ -61,6 +61,19 @@ Programming by Examples: PL meets ML
     * ML needs many training data and produces non readable output but handles complex tasks
     * use ML to create ranking function to tell which PBE programs are the most likely
 
+Interactive Program Synthesis
+-----------------------------
+
+* Link to paper `Interactive Program Synthesis <https://arxiv.org/abs/1703.03539>`_
+* Authors: Vu Le, Daniel Perelman, Oleksandr Polozov, Mohammad Raza, Abhishek Udupa, **Sumit Gulwani**
+* Year: 2017
+* Discussed problem: interactive aspect of programming by example
+
+* Short description of solution:
+
+    * interactivityas the solution to addressing the performance and the correctness challenges associated with PBE
+    * todo
+
 Disjunctive Program Synthesis: A Robust Approach to Programming by Example
 --------------------------------------------------------------------------
 
@@ -121,4 +134,4 @@ Synthesis and Machine Learning for Heterogeneous Extraction
         3) iterate
 
     * use set of best ranked programs, not only top one
-    * author presents algorithm for program synthesis with noisy labels
+    * author presents algorithm for program synthesis with noisy labels *NoisyDisjSyn*
