@@ -2,6 +2,7 @@ Introduction
 ============
 .. _intro:
 
+Entry level, all in one book: `Program Synthesis <https://rishabhmit.bitbucket.io/papers/program_synthesis_now.pdf>`_ by **Sumit Gulwani**, **Oleksandr Polozov**, Rishabh Singh
 
 Existing implementations of program synthesis:
 
