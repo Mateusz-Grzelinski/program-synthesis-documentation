@@ -11,6 +11,7 @@ Existing implementations of program synthesis:
 * `Fiat <http://plv.csail.mit.edu/fiat/>`_ - library for the Coq - `Fiat: Deductive Synthesis of Abstract Data Types in a Proof Assistant <http://adam.chlipala.net/papers/FiatPOPL15/>`_
 * `PROSE <https://github.com/microsoft/prose>`_ - C#
 * `CEGIS <https://github.com/marcelwa/CEGIS>`_ - c++, see :ref:`counterexample_guided_synthesis`
+* Alchemist (code not available?) - `Alchemist: Learning Guarded Affine Functions <https://link.springer.com/chapter/10.1007%2F978-3-319-21690-4_26>`_
 
 Programs from sygus:
 
@@ -21,6 +22,7 @@ Programs from sygus:
 * EUSolver (code not available?) - `Scaling Enumerative Program Synthesisvia Divide and Conquer <https://www.cis.upenn.edu/~alur/Tacas17.pdf>`_
 * ICE-DT (code not available?) - `ICE: A robust framework for learning invariants <https://link.springer.com/chapter/10.1007/978-3-319-08867-9_5>`_
 * OASIS (code not available?) - `OASIS: ILP-Guided Synthesis of Loop Invariants <https://arxiv.org/abs/1911.11728>`_
+* `Euphony <https://github.com/wslee/euphony>`_ - python
 
 
 Authors woth looking into:
