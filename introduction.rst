@@ -21,6 +21,8 @@ Existing implementations of program synthesis:
 * `PCCoder <https://github.com/amitz25/PCCoder>`_ - python - `Automatic Program Synthesis of Long Programs with a Learned Garbage Collector <https://arxiv.org/abs/1809.04682>`_
 * FlashMeta (code not available?) - `FlashMeta:  A  Framework  for  Inductive  Program  Synthesis <https://www.microsoft.com/en-us/research/publication/flashmeta-framework-inductive-program-synthesis/>`_
 * `StriSynth <https://github.com/MikaelMayer/StringSolver>`_ - scala - `StriSynth: Synthesis for Live Programming <http://www.cs.yale.edu/homes/piskac/papers/2015GulwaniETALStriSynth.pdf>`_
+* `Bayou <https://github.com/capergroup/bayou>`_ - java - `Neural Sketch Learning for Conditional Program Generation <https://arxiv.org/abs/1703.05698>`_
+* `Coarse2Fine <https://github.com/donglixp/coarse2fine>`_ - python - `Coarse-to-Fine Decoding for Neural Semantic Parsing <https://www.aclweb.org/anthology/P18-1068/>`_
 
 Programs from sygus:
 
