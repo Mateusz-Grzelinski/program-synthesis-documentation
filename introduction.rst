@@ -2,7 +2,7 @@ Introduction
 ============
 .. _intro:
 
-Entry level, all in one book: `Program Synthesis <https://rishabhmit.bitbucket.io/papers/program_synthesis_now.pdf>`_ by **Sumit Gulwani**, **Oleksandr Polozov**, Rishabh Singh
+Entry level, all in one book: `Program Synthesis <https://rishabhmit.bitbucket.io/papers/program_synthesis_now.pdf>`_ by **Sumit Gulwani**, **Oleksandr Polozov**, Rishabh Singh and `follow up blog <https://alexpolozov.com/blog/program-synthesis-2018/>`_
 
 Another github summary `awesome-program-synthesis <https://github.com/praveenkulkarni1996/awesome-program-synthesis>`_
 
@@ -24,7 +24,7 @@ Existing implementations of program synthesis:
 
 Programs from sygus:
 
-* `CVC4 <https://cvc4.github.io>`_ - c++ - `CVC4SY: Smart and Fast Term Enumeration for Syntax-Guided Synthesis <http://homepage.divms.uiowa.edu/~hbarbosa/papers/cvc4sygus.pdf>`_
+* `CVC4 <https://cvc4.github.io>`_ - c++ - `CVC4SY: Smart and Fast Term Enumeration for Syntax-Guided Synthesis <http://homepage.divms.uiowa.edu/~hbarbosa/papers/cvc4sygus.pdf>`_. `CVC4 wiki <https://github.com/CVC4/CVC4/wiki>`_ has some valuable links
 * `DeepCoder <https://github.com/dkamm/deepcoder>`_ - python -  `DeepCoder: Learning to Write Programs <https://www.microsoft.com/en-us/research/publication/deepcoder-learning-write-programs/>`_
 * `DryadSynth <https://github.rcac.purdue.edu/cap/DryadSynth>`_ - java - `DRYADSYNTH: A Concolic SyGuS Solver <https://engineering.purdue.edu/~xqiu/DryadSynth.pdf>`_
 * `LoopInvGen  <https://github.com/SaswatPadhi/LoopInvGen>`_ - omcaml - `LoopInvGen: A Loop Invariant Generator based on Precondition Inference <https://arxiv.org/abs/1707.02029>`_
