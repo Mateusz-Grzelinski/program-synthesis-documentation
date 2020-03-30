@@ -23,6 +23,8 @@ Existing implementations of program synthesis:
 * `StriSynth <https://github.com/MikaelMayer/StringSolver>`_ - scala - `StriSynth: Synthesis for Live Programming <http://www.cs.yale.edu/homes/piskac/papers/2015GulwaniETALStriSynth.pdf>`_
 * `Bayou <https://github.com/capergroup/bayou>`_ - java - `Neural Sketch Learning for Conditional Program Generation <https://arxiv.org/abs/1703.05698>`_
 * `Coarse2Fine <https://github.com/donglixp/coarse2fine>`_ - python - `Coarse-to-Fine Decoding for Neural Semantic Parsing <https://www.aclweb.org/anthology/P18-1068/>`_
+* `SemFix <https://github.com/awpandey/SemFix>`_ - C++ - `SemFix: program repair via semantic analysis <https://www.comp.nus.edu.sg/~abhik/pdf/ICSE13-SEMFIX.pdf>`_
+* AutoProf (code not available?) - `<https://excape.cis.upenn.edu/cp_personalized-edu.html#SGS13>`_
 
 Programs from sygus:
 
