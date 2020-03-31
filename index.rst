@@ -6,7 +6,8 @@ Welcome to Program synthesis overview
     :caption: Contents:
     :glob:
 
-    introduction
+    overview
+    how_to_program_synthesis
     publications/*
 
 

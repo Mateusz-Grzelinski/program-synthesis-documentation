@@ -1,12 +1,13 @@
-Introduction
-============
-.. _intro:
+Overview
+========
+.. _overview:
 
 Entry level, all in one book: `Program Synthesis <https://rishabhmit.bitbucket.io/papers/program_synthesis_now.pdf>`_ by **Sumit Gulwani**, **Oleksandr Polozov**, Rishabh Singh and `follow up blog <https://alexpolozov.com/blog/program-synthesis-2018/>`_
 
 Another github summary `awesome-program-synthesis <https://github.com/praveenkulkarni1996/awesome-program-synthesis>`_
 
-Existing implementations of program synthesis:
+Existing implementations of program synthesis
+---------------------------------------------
 
 * `synquid <https://bitbucket.org/nadiapolikarpova/synquid/src/default/src/Synquid/>`_ - haskel, see :ref:`polikarpova_type_guided_synthesis`
 * `lambda square <https://github.com/jfeser/L2>`_ (l2) - ocaml - `Synthesizing data structure transformations from input-output examples <https://dl.acm.org/doi/10.1145/2737924.2737977>`_
@@ -37,7 +38,8 @@ Programs from sygus:
 * OASIS (code not available?) - `OASIS: ILP-Guided Synthesis of Loop Invariants <https://arxiv.org/abs/1911.11728>`_
 * `Euphony <https://github.com/wslee/euphony>`_ - python
 
-Authors worth looking into:
+Authors worth looking into
+--------------------------
 
 * `Sriram Rajamani <https://www.microsoft.com/en-us/research/people/sriram/>`_ - **Advanced course on program synthesis by among others Sriram Rajamani** `<https://www.csa.iisc.ac.in/~deepakd/psml-2020/>`_
 * `Alex Polozov <https://alexpolozov.com/>`_
