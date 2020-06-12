@@ -38,6 +38,9 @@ Programs from sygus:
 * OASIS (code not available?) - `OASIS: ILP-Guided Synthesis of Loop Invariants <https://arxiv.org/abs/1911.11728>`_
 * `Euphony <https://github.com/wslee/euphony>`_ - python
 
+Other projects, not direclty connected to program synthesis:
+* Code2vec - https://github.com/tech-srl/code2vec or newer code2seq - https://github.com/tech-srl/code2seq
+
 Authors worth looking into
 --------------------------
 
