@@ -50,6 +50,14 @@ Existing implementations of program synthesis
     * this is simplistic implementation (5 files), uses z3, minimal documentation
 
 * AutoProf (code not available?) - `<https://excape.cis.upenn.edu/cp_personalized-edu.html#SGS13>`_
+* `Rosette <https://github.com/emina/rosette>`_ - `Racket <https://racket-lang.org/>`_ (general purpose language oriented programming language) - solver-aided programming language that extends with language constructs for program synthesis, verification
+* `strans <https://github.com/Inventitech/strans>`_ - small shell utility for string manipulation using prose SDK
+* `AI-Programmer <https://github.com/primaryobjects/AI-Programmer>`_ - c# - experiment with using artificial intelligence and genetic algorithms to automatically generate programs
+* `suggest.el <https://github.com/Wilfred/suggest.el>`_ - emacs lisp - discover elisp functions based on examples
+* `Cozy <https://github.com/CozySynthesizer/cozy>`_ - python - synthesize data structure implementations from simple high-level specifications
+* `Metagol <https://github.com/metagol/metagol>`_ - prolog - inductive logic programming (ILP) system based on meta-interpretive learning
+* `NEAR Program Synthesis <https://github.com/nearai/program_synthesis>`_ - python, jupyter notebook - set of models, tools, and datasets for program synthesis tasks
+* `Neural Symbolic Machines (NSM) <https://github.com/crazydonkey200/neural-symbolic-machines>`_ - python, jypyter notebook - framework to integrate neural networks and symbolic representations using reinforcement learninframework to integrate neural networks and symbolic representations using reinforcement learningg
 
 Programs from sygus:
 
