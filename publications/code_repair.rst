@@ -3,17 +3,12 @@ Code repair
 
 The biggest challenge in code repair is code representation. It is similar to natural language processing as it has sequence-to-sequence character
 
-* nice blog posts:
-
-    * https://blog.sigplan.org/2019/08/22/from-programs-to-deep-models-part-1/
-    * https://blog.sigplan.org/2020/02/12/from-programs-to-deep-models-part-2/
-    * https://blog.sigplan.org/2020/05/11/from-programs-to-deep-models-part-3-code-completion/
 
 Code2vec & Code2Seq & AnyCodeGen
 --------------------------------
 
 * This is incremental work from same authors, featured at conferences
-* Problem: learn code distribution (for use in machine learning)
+* Problem: learn code distribution (for various uses in machine learning)
 * Authors: Uri Alon, Shaked Brody, Omer Levy and Eran Yahav
 * Link to demos (with link to papers and code): https://code2vec.org, https://code2seq.org, https://anycodegen.org/
 
@@ -37,3 +32,4 @@ Code2vec & Code2Seq & AnyCodeGen
 
         * any-code completion
         * demo completes code :)
+
